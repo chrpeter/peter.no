@@ -2,3 +2,4 @@ node_modules
 public/bundle.*
 .cache
 dist
+yarn-error.log
